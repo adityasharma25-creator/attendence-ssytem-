@@ -1,0 +1,8 @@
+opencv-python
+face-recognition
+numpy
+pandas
+streamlit
+mysql-connector-python
+pickle-mixin
+openpyxl
